@@ -2,7 +2,7 @@
 👋 Hi there!
 I’m a pre-final year Computer Science and Engineering student with a strong passion for Java development and backend engineering. I specialize in building efficient systems and optimizing code for performance.
 
-💼 What I Do
+💼 What I Do<br>
 🔭 Currently in my 3rd year of BE in Computer Science and Engineering
 
 🤝 Seeking guidance on advanced system design and scalability concepts
