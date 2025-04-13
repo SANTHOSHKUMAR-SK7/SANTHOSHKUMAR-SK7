@@ -2,14 +2,15 @@
 👋 Hi there!
 I’m a pre-final year Computer Science and Engineering student with a strong passion for Java development and backend engineering. I specialize in building efficient systems and optimizing code for performance.
 
-💼 What I Do<br>
+💼 What I Do
+
 🔭 Currently in my 3rd year of BE in Computer Science and Engineering
 
-🤝 Seeking guidance on advanced system design and scalability concepts
+🌱 Currently learning DSA and Spring Boot
 
-🌱 Learning Spring Boot, microservices, and database optimization
+📚 Planning to learn microservices and database in the future
 
-💬 Experienced in Java, OOP, DSA, and backend technologies
+💬 Experienced in Java, OOP, and backend technologies
 
 ⚡ Fun fact: I enjoy debugging more than coding—it feels like solving a mystery! 🔍
 
