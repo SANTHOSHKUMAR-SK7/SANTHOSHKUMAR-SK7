@@ -2,8 +2,6 @@
 👋 Hi there!
 I’m a final year Computer Science and Engineering student with a strong passion for Java development and backend engineering. I specialize in building efficient systems and optimizing code for performance.
 
-💼 What I Do
-
 🔭 Currently in my final year of BE in Computer Science and Engineering
 
 🌱 Currently learning DSA and Spring Boot
