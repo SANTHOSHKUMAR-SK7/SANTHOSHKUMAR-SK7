@@ -1,16 +1,19 @@
-# 💫 About Me:
-👋 Hi there!
-I’m a final year Computer Science and Engineering student with a strong passion for Java development and backend engineering. I specialize in building efficient systems and optimizing code for performance.
+# 💫 About Me
 
-🔭 Currently in my final year of BE in Computer Science and Engineering
+👋 Hi, I'm **SanthoshKumar**, a Software Engineer passionate about backend development, problem-solving, and building reliable applications.
 
-🌱 Currently learning DSA and Spring Boot
+💼 Currently working as a **Software Engineer at ADP**, where I'm strengthening my skills in enterprise application development and DevOps practices.
 
-📚 Planning to learn microservices and database in the future
+💻 Experienced with **Java, C#, .NET, ASP.NET Core, SQL Server, REST APIs, and TypeScript**.
 
-💬 Experienced in Java, OOP, and backend technologies
+🌱 Currently learning **PowerShell, AWS CLI, AWS CDK, Ansible, and SQL**, while expanding my knowledge of cloud and infrastructure automation.
 
-⚡ Fun fact: I enjoy debugging more than coding—it feels like solving a mystery! 🔍
+🎯 Interested in **Backend Development, DevOps, Cloud Technologies, and System Design**.
+
+📚 Always exploring better software engineering practices and continuously improving my technical skills.
+
+⚡ I enjoy debugging complex issues, understanding how systems work, and learning new technologies that make software more scalable and maintainable.
+
 
 
 ## 🌐 Socials:
