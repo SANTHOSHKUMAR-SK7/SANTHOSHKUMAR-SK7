@@ -6,7 +6,7 @@
 
 💻 Experienced with **Java, C#, .NET, ASP.NET Core, SQL Server, REST APIs, and TypeScript**.
 
-🌱 Currently learning **PowerShell, AWS CLI, AWS CDK, Ansible**, while expanding my knowledge of cloud and infrastructure automation.
+🌱 Currently learning **Docker, k8s, PowerShell, AWS CLI, AWS CDK, Ansible**, while expanding my knowledge of cloud and infrastructure automation.
 
 🎯 Interested in **Backend Development, DevOps, Cloud Technologies, and System Design**.
 
